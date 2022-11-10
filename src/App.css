@@ -9,6 +9,10 @@
     font-family: var(--orbitron);
 }
 
+button{
+    cursor: pointer;
+}
+
 :root {
     --orbitron: 'Orbitron', sans-serif;
     --blue: #57B8FF;
