@@ -22,7 +22,7 @@ function Navbar() {
                             <li><a href="#pages">Pages</a></li>
                         </ul>
                         <div className="nbtn d-flex items-center justify-betweeen">
-                            <i class="fa-solid fa-cart-shopping"> Shop</i>
+                            <i class="fa-solid fa-cart-shopping"></i>
                             <button>Contact Us</button>
                         </div>
                     </div>

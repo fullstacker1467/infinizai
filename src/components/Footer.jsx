@@ -20,8 +20,8 @@ function Footer() {
             </ul>
             <ul className='social'>
                 <h3>My Social Links <i class="fa-solid fa-check"></i></h3>
-                <li><a href=""><i class="fa-brands fa-telegram"> Instagram</i></a></li>
-                <li><a href=""><i class="fa-brands fa-instagram"> Telegram</i></a></li>
+                <li><a href="https://t.me/+-HcEKA0qaR5iMzAy"><i class="fa-brands fa-telegram"></i>Telegram</a></li>
+                <li><a href="#"><i class="fa-brands fa-instagram"></i>Instagram</a></li>
             </ul>
         </div>
     </div>
